@@ -1,2 +1,2 @@
 # test-repository
-test Description (optional)
+test
